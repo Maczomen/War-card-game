@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Studia\Card-game\CardGame\main.cpp(449): warning C4715: 'wartosc_reki_miejsca': not all control paths return a value
+  CardGame.vcxproj -> D:\Studia\Card-game\CardGame\Debug\CardGame.exe
